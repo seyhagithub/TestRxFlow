@@ -1,0 +1,33 @@
+PODS:
+  - RxAtomic (4.4.1)
+  - RxCocoa (4.4.1):
+    - RxSwift (~> 4.0)
+  - RxFlow (2.0.0):
+    - RxCocoa (>= 4.4.0)
+    - RxSwift (>= 4.4.0)
+  - RxSwift (4.4.1):
+    - RxAtomic (~> 4.4)
+  - Swinject (2.5.0)
+
+DEPENDENCIES:
+  - RxFlow (~> 2.0.0)
+  - Swinject
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RxAtomic
+    - RxCocoa
+    - RxFlow
+    - RxSwift
+    - Swinject
+
+SPEC CHECKSUMS:
+  RxAtomic: f8d6adc1ccb87a767811269e4875887bc74dbf19
+  RxCocoa: 2f35a76bf8887872e28a1914112395b11b8e0e64
+  RxFlow: f0212025e3747431b3be09c6be04bfde0a3bf5a4
+  RxSwift: 92fcf68dfef21f3e2ab1965363d9e7b3d787597e
+  Swinject: 82cdb851f63f91bba974e3eca1d69780f2f7677e
+
+PODFILE CHECKSUM: bda5784a4f5d8b0547f92c57cf88a4093ab7bc3f
+
+COCOAPODS: 1.6.0.beta.2
